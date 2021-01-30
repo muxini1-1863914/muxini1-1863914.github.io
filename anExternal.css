@@ -1,0 +1,37 @@
+#p1 {
+  font-family: 'Courier New', Courier, monospace;
+  /* The following is a CSS command not shown in class */
+  display: flex;
+}
+
+#p2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', Verdana, sans-serif;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+#photo-section {
+  position: relative;
+  text-align: center;
+  background-image: url("1863914.png");
+  color: red;
+}
+
+#level2 img {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 20px;
+  border: 5px solid;
+}
+
+#level2 p {
+  border: dotted 5px;
+}
