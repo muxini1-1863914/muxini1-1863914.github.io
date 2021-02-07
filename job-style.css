@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+
+legend {
+  color: blue;
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+label {
+  font-style: italic;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  color: red;
+}
+
+section {
+  border: solid 3px;
+  margin: 5px;
+}
